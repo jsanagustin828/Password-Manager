@@ -1,0 +1,6 @@
+Google | dummyemail@gmail.com | Google123
+Amazon | dummyemail@gmail.com | Amazon123
+Facebook | dummyemail@gmail.com | Facebook123
+American Airlines | dummyemail@gmail.com | password098
+test | dummyemail@gmail.com | test123
+Amazon | dummyemail@gmail.com | Amazon123
